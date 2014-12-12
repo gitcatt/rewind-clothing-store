@@ -1,0 +1,25 @@
+
+  Page
+   - header
+     - contact info
+     - logo/image
+     - slideshow
+     - navigation
+     - social media
+   - section
+     - h2 What's Hot (title)
+     - article
+       - image
+       - text
+     - article
+       - image
+       - text
+   - aside
+     - h3 How it works
+     - list
+     - h3 Rewind Events
+     - list
+   - footer
+     - nav
+     - social media
+     - copyright, disclaimer ,etc.
